@@ -1,8 +1,21 @@
 /* ==========================================================================
-   CODELOUISVILLE FEWD - CSS TEMPLATE
+   CODELOUISVILLE FEWD - CSS fonts
    ========================================================================== */
 
 
  /* ==========================================================================
-    BASE STYLES
+    Google Fonts
     ========================================================================== */
+
+  h1 {
+    font-family: 'Josefin Slab', serif;
+  }
+
+  .main-nav {
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: inherit;
+  }
