@@ -7,15 +7,11 @@
     Google Fonts
     ========================================================================== */
 
-  h1 {
-    font-family: 'Josefin Slab', serif;
+  h1, h2, h3, p {
+    font-family: 'Josefin Slab',"Palatino Linotype", "Book Antiqua", serif;
+    font-weight: bold;
   }
 
   .main-nav {
     font-family: 'Open Sans Condensed', sans-serif;
-  }
-
-  a {
-    color: inherit;
-    text-decoration: inherit;
   }

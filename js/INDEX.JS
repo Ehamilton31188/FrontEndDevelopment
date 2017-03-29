@@ -1,7 +1,7 @@
-///this my custom JavaScript////
+///JavaScript////
 ///carosel///
-$('.carousel').carousel slide({
-  interval: 3000
-  pause: "hover"
+$('.carousel').carousel({
+  interval: 3000,
+  pause: "hover",
   wrap: "true"
 })

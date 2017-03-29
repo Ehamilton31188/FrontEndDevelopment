@@ -1,0 +1,132 @@
+/* ==========================================================================
+   CODELOUISVILLE - CSS TEMPLATE
+   ========================================================================== */
+   .img-responsive {
+     width: auto;
+     height: 450px !important;
+   }
+
+   body {
+     margin: 0;
+     background-color: #dad7db;
+   }
+
+   nav {
+     text-align: center;
+   }
+
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  li a {
+    display: block;
+  }
+
+    /* Change the link color on hover */
+  li a:hover {
+      background-color: #555;
+      color: white;
+  }
+
+   h1 {
+     margin: 50px;
+     font-size: 50px;
+     text-align: center;
+     color: #622d69;
+   }
+
+   h2 {
+     margin: 50px;
+     font-size: 40px;
+     text-align: center;
+     color: #935f9a;
+   }
+
+   p {
+    font-size: 19px;
+    color: #5a3a5e;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 80px;
+    margin-left:  0 50%;
+    margin-right: 0 50%;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .Emailcontact {
+    padding: 10px;
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+  .form-group {
+    padding: 10px;
+    text-align: center;
+  }
+
+  .Emailcontact h3 {
+    margin: 50px;
+    font-size: 30px;
+    text-align: center;
+    color: #935f9a;
+  }
+
+  footer {
+    margin: 50px;
+    font-size: 30px;
+    text-align: center;
+  }
+ /*=============================================================================
+
+    nav {
+      text-align: center;
+    }
+
+    nav li {
+      display: inline-block;
+      color: #fff;
+      list-style: none;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+      ========================================================================== */
+
+      /* ==========================================================================
+    Media Queires
+    @media screen and (mid_width: 944px) {
+      body {
+        margin: 0;
+        color: orange;
+      }
+
+      header {
+        background-color: black;
+      }
+
+      img {
+          max-width: 100%;
+          height: auto;
+          border: 0;
+      }
+
+      h1 {
+        text-align: center;
+        color: orange;
+        font-size: 90px;
+      }
+        nav {
+        text-align: center;
+      }
+
+      nav li {
+        display: inline-block;
+        color: #fff;
+        list-style: none;
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+    }
+      ========================================================================== */
